@@ -1,7 +1,3 @@
-# DH110-EvelynHu
-# This is a header.
-Here is some plain text.
-## This is a smaller header.
-I am also plain text.
-### This is an even smaller header!
-Wow!
+# DH110 - Evelyn Hu
+
+This repository is for the DH110 User Experience and Design course at UCLA.
